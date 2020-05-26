@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGXTHA/xPlU8L+K06MocLJUcgVRsVWo7BSdU28dC12sb/M8fHy7jNTPgMpFQXO1NK4ZySJ4FDp29hTAYhoGccQ==",
+  "dgSpecHash": "pXaXxNa3BJR23eRVdOSqegjYSmftuyMt89W1lxKDVOiHsQE8aTVEFRTm6qZ6oAirEmUx9fo0y71xUa1c5ckYzQ==",
   "success": true,
-  "projectFilePath": "E:\\Bots\\MPTeams\\MPTeams\\MPTeams.csproj",
+  "projectFilePath": "E:\\Bots\\AIBots\\MPTeams\\MPTeams.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonam Bishnoi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Sonam Bishnoi\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

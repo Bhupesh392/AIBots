@@ -13699,11 +13699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bots\\MPTeams\\MPTeams\\MPTeams.csproj",
+      "projectUniqueName": "E:\\Bots\\AIBots\\MPTeams\\MPTeams.csproj",
       "projectName": "MPTeams",
-      "projectPath": "E:\\Bots\\MPTeams\\MPTeams\\MPTeams.csproj",
+      "projectPath": "E:\\Bots\\AIBots\\MPTeams\\MPTeams.csproj",
       "packagesPath": "C:\\Users\\Sonam Bishnoi\\.nuget\\packages\\",
-      "outputPath": "E:\\Bots\\MPTeams\\MPTeams\\obj\\",
+      "outputPath": "E:\\Bots\\AIBots\\MPTeams\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
