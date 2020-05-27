@@ -63,3 +63,4 @@ E:\Bots\AIBots\MPTeams\obj\Debug\netcoreapp2.1\MPTeams.RazorTargetAssemblyInfo.c
 E:\Bots\AIBots\MPTeams\obj\Debug\netcoreapp2.1\MPTeams.dll
 E:\Bots\AIBots\MPTeams\obj\Debug\netcoreapp2.1\MPTeams.pdb
 E:\Bots\AIBots\MPTeams\obj\Debug\netcoreapp2.1\MPTeams.genruntimeconfig.cache
+E:\Bots\AIBots\MPTeams\obj\Debug\netcoreapp2.1\MPTeams.csprojAssemblyReference.cache

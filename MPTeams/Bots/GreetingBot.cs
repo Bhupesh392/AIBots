@@ -59,6 +59,9 @@ namespace MPTeams.Bots
                 }
                 else
                 {
+                    //introduce your bot 
+                    await turnContext.SendActivityAsync(MessageFactory.Text("Hi GoodMorning!! I am MPBot."), cancellationToken);
+
                     //Prompt the user for their Name
                     await turnContext.SendActivityAsync(MessageFactory.Text("What is your name?"), cancellationToken);
 
